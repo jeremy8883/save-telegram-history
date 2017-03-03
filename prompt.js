@@ -15,5 +15,5 @@ const promptGet = (props) =>
 
 module.exports = {
   get: promptGet,
-  start: prompt.start,
+  init: prompt.start,
 };
