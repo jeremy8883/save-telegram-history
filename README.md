@@ -1,6 +1,8 @@
 # save-telegram-history
 
-A simple script that saves your conversation history from [Telegram](https://telegram.org/).
+THIS IS PROGRAM IS CURRENTLY IN DEVELOPMENT, AND NOT YET FUNCTIONAL.
+
+A script that saves your conversation history from [Telegram](https://telegram.org/).
 
 ## To run:
 
